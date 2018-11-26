@@ -1,4 +1,4 @@
-update=Mon 05 Nov 2018 10:43:53 AM CET
+update=Mon 26 Nov 2018 09:50:54 AM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,5 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=kicad-RFM9X/RFM9X
+LibName33=mysensors_symbols/mysensors_radios
